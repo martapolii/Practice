@@ -1,0 +1,2 @@
+# Practice
+This repository is a collection of coding challenges and solutions from platforms like LeetCode, HackerRank, and similar websites. It is a personal project aimed at improving my problem-solving skills, covering topics such as algorithms, data structures, dynamic programming, and optimization techniques. I will regularly update this repo with new challenges and solutions, along with explanations where needed. Feel free to explore the code, leave feedback, or suggest improvements
